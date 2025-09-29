@@ -29,8 +29,3 @@ You are developing an application that helps users manage and control various el
 ## UML Diagram
 
 <img width="2366" height="1442" alt="NLR (16)" src="https://github.com/user-attachments/assets/e521c8e6-8976-4ac8-bb33-6d374e063925" />
-
-|     Laptop     |  |   Refrigerator  |  | SmartphoneCharger|
-|----------------|  |-----------------|  |------------------|
-| + charge()     |  | + startCooling()|  | + chargePhone()  |
-+----------------+  +-----------------+  +------------------+
